@@ -1,15 +1,15 @@
 {
-  "name": "hubert",
+  "name": "moutarder",
   "version": "0.0.0",
   "private": true,
   "author": "git@createor.net",
-  "description": "Hubert is for fun!",
+  "description": "Moutarder passes the moutarde.",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "awailly/hubot-google-translate#fix-tests",
-    "hubot-group-alias": "^2.1.3",
+    "hubot-group-alias": "^2.2.2",
     "hubot-help": "^0.2.0",
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-maps": "0.0.2",
